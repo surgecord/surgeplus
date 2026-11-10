@@ -1,4 +1,4 @@
-# 🎬 Surge+
+# Surge+
 ### Your Entertainment. Everywhere.
 
 A personal, multi-platform cinematic streaming experience.
@@ -114,7 +114,7 @@ Surge+ is part of the Surgecord software ecosystem.
 
 Our goal is to build accessible, versatile, and modern software experiences that work across the devices people use every day.
 
-Surge+ — Your Entertainment. Everywhere.
+Surge+ Your Entertainment. Everywhere.
 
 Website: https://surgeplus.xyz
 Downloads: Coming Soon
