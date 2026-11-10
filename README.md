@@ -15,9 +15,8 @@ Download the latest Surge+ applications for your devices.
 
 | Platform | Application | Status |
 |---|---|---|
-| iOS | Surge+ for iPhone | Coming Soon |
-| iPadOS | Surge+ for iPad | Coming Soon |
-| Windows | Surge+ Desktop | Coming Soon |
+| iOS | Surge+ for iPhone & iPad | Available |
+| Windows | Surge+ for Windows | Available |
 | Web | Surge+ Web | Available |
 
 ### iOS & iPadOS
