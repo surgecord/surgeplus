@@ -17,6 +17,7 @@ Download the latest Surge+ applications for your devices.
 |---|---|---|
 | iOS | Surge+ for iPhone & iPad | Available |
 | Windows | Surge+ for Windows | Available |
+| Mac | Surge+ for Mac | Available |
 | Web | Surge+ Web | Available |
 
 ### iOS & iPadOS
